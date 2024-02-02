@@ -161,7 +161,6 @@ variable "kms_encryption_context" {
 }
 
 #alicloud_polardb_backup_policy
-
 variable "preferred_backup_period" {
   description = "PolarDB Cluster backup period. Valid values: Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday. Default to ['Tuesday','Thursday', 'Saturday']."
   type        = set(string)
