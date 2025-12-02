@@ -1,3 +1,5 @@
+## [1.4.1](https://github.com/alibabacloud-automation/terraform-alicloud-polardb-postgresql/compare/v1.4.0...v1.4.1) (2025-12-02)
+
 ## 1.5.0 (Unreleased)
 
 ## 1.4.0 (2024-03-08)
